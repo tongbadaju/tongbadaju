@@ -20,7 +20,7 @@
 
 ## Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=tongbadaju&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tongbadaju&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tongbadaju&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tongbadaju)
